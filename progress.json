@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T07:24:23.145Z",
+  "generated_at": "2026-09-21T07:24:24.995Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -11,6 +11,45 @@
       "path": "problems/0001-matrix-vector-dot-product",
       "first_solved_at": "2024-10-19T08:08:32.824Z",
       "last_pushed_at": "2024-10-19T08:08:32.824Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:10": {
+      "kind": "problem",
+      "id": "10",
+      "title": "Calculate Covariance Matrix",
+      "difficulty": "easy",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/10",
+      "path": "problems/0010-calculate-covariance-matrix",
+      "first_solved_at": "2024-10-27T12:44:48.619Z",
+      "last_pushed_at": "2024-10-27T12:44:48.619Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:11": {
+      "kind": "problem",
+      "id": "11",
+      "title": "Solve Linear Equations using Jacobi Method",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/11",
+      "path": "problems/0011-solve-linear-equations-using-jacobi-method",
+      "first_solved_at": "2024-10-27T13:21:30.493Z",
+      "last_pushed_at": "2024-10-27T13:21:30.493Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:12": {
+      "kind": "problem",
+      "id": "12",
+      "title": "Singular Value Decomposition (SVD) of 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/12",
+      "path": "problems/0012-singular-value-decomposition-svd-of-2x2-matrix",
+      "first_solved_at": "2024-10-27T14:05:34.678Z",
+      "last_pushed_at": "2024-10-27T14:05:34.678Z",
       "language": "python",
       "lines": 1
     }
