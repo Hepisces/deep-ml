@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T07:24:24.995Z",
+  "generated_at": "2026-09-21T07:24:27.165Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -50,6 +50,45 @@
       "path": "problems/0012-singular-value-decomposition-svd-of-2x2-matrix",
       "first_solved_at": "2024-10-27T14:05:34.678Z",
       "last_pushed_at": "2024-10-27T14:05:34.678Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:13": {
+      "kind": "problem",
+      "id": "13",
+      "title": "Determinant of a 4x4 Matrix using Laplace's Expansion (hard)",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/13",
+      "path": "problems/0013-determinant-of-a-4x4-matrix-using-laplace-s-expansion-hard",
+      "first_solved_at": "2024-10-28T04:04:59.903Z",
+      "last_pushed_at": "2024-10-28T04:04:59.903Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:2": {
+      "kind": "problem",
+      "id": "2",
+      "title": "Transpose of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/2",
+      "path": "problems/0002-transpose-of-a-matrix",
+      "first_solved_at": "2024-10-28T15:06:09.263Z",
+      "last_pushed_at": "2024-10-28T15:06:09.263Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:27": {
+      "kind": "problem",
+      "id": "27",
+      "title": "Transformation Matrix from Basis B to C",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/27",
+      "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
+      "first_solved_at": "2024-10-28T15:55:34.999Z",
+      "last_pushed_at": "2024-10-28T15:55:34.999Z",
       "language": "python",
       "lines": 1
     }
