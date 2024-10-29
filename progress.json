@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T07:24:27.165Z",
+  "generated_at": "2026-09-21T07:24:28.976Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -89,6 +89,71 @@
       "path": "problems/0027-transformation-matrix-from-basis-b-to-c",
       "first_solved_at": "2024-10-28T15:55:34.999Z",
       "last_pushed_at": "2024-10-28T15:55:34.999Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:28": {
+      "kind": "problem",
+      "id": "28",
+      "title": "SVD of a 2x2 Matrix",
+      "difficulty": "hard",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/28",
+      "path": "problems/0028-svd-of-a-2x2-matrix",
+      "first_solved_at": "2024-10-29T07:51:30.045Z",
+      "last_pushed_at": "2024-10-29T07:51:30.045Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2024-10-29T07:53:58.738Z",
+      "last_pushed_at": "2024-10-29T07:53:58.738Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:35": {
+      "kind": "problem",
+      "id": "35",
+      "title": "Convert Vector to Diagonal Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/35",
+      "path": "problems/0035-convert-vector-to-diagonal-matrix",
+      "first_solved_at": "2024-10-29T08:05:55.008Z",
+      "last_pushed_at": "2024-10-29T08:05:55.008Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:4": {
+      "kind": "problem",
+      "id": "4",
+      "title": "Calculate Mean by Row or Column",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/4",
+      "path": "problems/0004-calculate-mean-by-row-or-column",
+      "first_solved_at": "2024-10-29T08:11:34.001Z",
+      "last_pushed_at": "2024-10-29T08:11:34.001Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2024-10-29T08:13:05.834Z",
+      "last_pushed_at": "2024-10-29T08:13:05.834Z",
       "language": "python",
       "lines": 1
     }
