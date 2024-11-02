@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T07:24:30.893Z",
+  "generated_at": "2026-09-21T07:24:32.621Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -167,6 +167,32 @@
       "path": "problems/0037-calculate-correlation-matrix",
       "first_solved_at": "2024-10-30T12:45:02.716Z",
       "last_pushed_at": "2024-10-30T12:45:02.716Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:48": {
+      "kind": "problem",
+      "id": "48",
+      "title": "Implement Reduced Row Echelon Form (RREF) Function",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/48",
+      "path": "problems/0048-implement-reduced-row-echelon-form-rref-function",
+      "first_solved_at": "2024-11-02T08:44:52.755Z",
+      "last_pushed_at": "2024-11-02T08:44:52.755Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:55": {
+      "kind": "problem",
+      "id": "55",
+      "title": "2D Translation Matrix Implementation",
+      "difficulty": "medium",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/55",
+      "path": "problems/0055-2d-translation-matrix-implementation",
+      "first_solved_at": "2024-11-02T09:00:33.988Z",
+      "last_pushed_at": "2024-11-02T09:00:33.988Z",
       "language": "python",
       "lines": 1
     }
