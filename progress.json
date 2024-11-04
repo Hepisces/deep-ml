@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T07:24:34.328Z",
+  "generated_at": "2026-09-21T07:24:36.724Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -323,6 +323,32 @@
       "path": "problems/0014-linear-regression-using-normal-equation",
       "first_solved_at": "2024-11-03T10:01:20.341Z",
       "last_pushed_at": "2024-11-03T10:01:20.341Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:16": {
+      "kind": "problem",
+      "id": "16",
+      "title": "Feature Scaling Implementation",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/16",
+      "path": "problems/0016-feature-scaling-implementation",
+      "first_solved_at": "2024-11-04T03:40:40.042Z",
+      "last_pushed_at": "2024-11-04T03:40:40.042Z",
+      "language": "python",
+      "lines": 1
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2024-11-04T03:47:20.751Z",
+      "last_pushed_at": "2024-11-04T03:47:20.751Z",
       "language": "python",
       "lines": 1
     }
