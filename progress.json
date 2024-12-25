@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T07:24:38.515Z",
+  "generated_at": "2026-09-21T07:24:40.569Z",
   "items": {
     "problem:1": {
       "kind": "problem",
@@ -481,6 +481,32 @@
       "last_pushed_at": "2024-11-10T13:57:13.381Z",
       "language": "python",
       "lines": 1
+    },
+    "problem:69": {
+      "kind": "problem",
+      "id": "69",
+      "title": "Calculate R-squared for Regression Analysis",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/69",
+      "path": "problems/0069-calculate-r-squared-for-regression-analysis",
+      "first_solved_at": "2024-12-25T12:07:44.697Z",
+      "last_pushed_at": "2024-12-25T12:07:44.697Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:17": {
+      "kind": "problem",
+      "id": "17",
+      "title": "K-Means Clustering",
+      "difficulty": "medium",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/17",
+      "path": "problems/0017-k-means-clustering",
+      "first_solved_at": "2024-12-25T12:40:04.428Z",
+      "last_pushed_at": "2024-12-25T12:40:04.428Z",
+      "language": "python",
+      "lines": 20
     }
   }
 }
